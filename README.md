@@ -2,7 +2,9 @@
 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
 <!--
 **k-szewczyk/k-szewczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
