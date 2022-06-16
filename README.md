@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-
-
-![](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
-![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-szewczyk/k-szewczyk/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-szewczyk/k-szewczyk/main/profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Shows an animated github content depends on theme" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 <!--
 **k-szewczyk/k-szewczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
